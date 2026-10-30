@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/nangu-utaawase",
  "yomi": "なんぐううたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十九番）",
+  "era": "大治3年（1128）9月21日",
+  "author": "主催 源顕仲",
+  "desc": "西宮の歌合に続いて南宮で催された歌合。先の歌合の選び残しの歌で合わせよとの夢告げがたびたびあったため行われたと序にいう。月述懐・紅葉昼・鹿暁・菊祝などの題で、顕仲とその娘らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
